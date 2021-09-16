@@ -1,0 +1,21 @@
+body {
+    background-color: #FFFDD0;
+}
+footer {
+    position: sticky;
+}
+.cards {
+    display: flex;
+    flex-direction: row;
+}
+.content {
+    padding: 50px 50px 50px 50px;
+}
+.foot {
+    background-color: #228B22;
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    height: 20px;
+}
